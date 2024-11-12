@@ -1,6 +1,7 @@
 
-###GEGAN: Gradient-guided Evolutionary Algorithm for Training Generative Adversarial Networks
-###Authors: Wenwen Jia, Qi Yu, Xijun Liang, Ling Jian
+#GEGAN: Gradient-guided Evolutionary Algorithm for Training Generative Adversarial Networks
+
+#Authors: Wenwen Jia, Qi Yu, Xijun Liang, Ling Jian
 
 
 ### Prerequisites
